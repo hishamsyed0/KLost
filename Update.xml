@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.5</latestVersion>
-    <latestVersionCode>6</latestVersionCode>
+    <latestVersion>1.8</latestVersion>
+    <latestVersionCode>9</latestVersionCode>
     <url>https://github.com/hishamsyed0/KLost/releases/tag/v1.5</url>
 <releaseNotes>
 - First evolution
