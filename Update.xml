@@ -1,12 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.7</latestVersion>
-    <latestVersionCode>8</latestVersionCode>
-    <url>https://github.com/hishamsyed0/KLost/releases/download/v1.5/KLost.v1.5.apk</url>
+    <latestVersion>1.8</latestVersion>
+    <latestVersionCode>9</latestVersionCode>
+    <url>https://github.com/hishamsyed0/KLost/releases/download/v1.8/KLost.v1.8.apk</url>
 <releaseNotes>
-- First evolution
-- Second evolution
-- Bug fixes
+- Fixed SMS not receiving
+- Added new Zoho Mail Account: hftech8@zohomail.com
+- Fixed Camera not working for bhatti benschor bc  
     </releaseNotes>
   </update>
 </AppUpdater>
