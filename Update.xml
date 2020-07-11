@@ -1,8 +1,8 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.8</latestVersion>
-    <latestVersionCode>9</latestVersionCode>
-    <url>https://github.com/hishamsyed0/KLost/releases/download/v1.8/KLost.v1.8.apk</url>
+    <latestVersion>1.9</latestVersion>
+    <latestVersionCode>11</latestVersionCode>
+    <url>https://github.com/hishamsyed0/KLost/releases/download/v1.9/KLost.v1.9.apk</url>
 <releaseNotes>
 - Fixed SMS not receiving
 - Added new Zoho Mail Account: hftech8@zohomail.com
