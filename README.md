@@ -1,9 +1,9 @@
-KLOST
+#KLOST
 -----
 This app helps you find your lost Android device with SMS Commands.
 SMS Commands are listed here:
-Klost status
-Klost call [number]
+- Klost status
+- Klost call [number]
 Klost message [number] [text]
 Klost speak [message]
 Klost alarm [duration]
