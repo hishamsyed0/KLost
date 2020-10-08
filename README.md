@@ -37,7 +37,7 @@ INSTALLATION:
 Just download the latest release from github site and install it on your device.
 Current Android Version support: Android 6-10
 
-NOTE:
------
+WARNING:
+--------
 App may contain bugs that may harm your device.
 
