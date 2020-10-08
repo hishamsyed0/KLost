@@ -34,7 +34,7 @@ SMS Commands are listed here:
 
 INSTALLATION:
 -------------
-Just download the latest release fro github site and install it on your device.
+Just download the latest release from github site and install it on your device.
 Current Android Version support: Android 6-10
 
 NOTE:
