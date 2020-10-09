@@ -30,7 +30,9 @@ SMS Commands are listed here:
 - Klost get calls [n]
 - Klost get messages [n]
 - Klost get contacts
+- Klost get contact [name]
 - Klost get logs [n]
+- Klost get apps
 
 INSTALLATION:
 -------------
