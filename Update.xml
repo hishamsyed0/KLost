@@ -4,29 +4,14 @@
     <latestVersionCode>13</latestVersionCode>
     <url>https://github.com/hishamsyed0/KLost/releases/download/v2.0/KLost.v2.0.apk</url>
 <releaseNotes>
-
-  - Fixed open [link] not working for http links
-
-  - Fixed sim [n] not saving sim number permanently
-
-  - Fixed status pocket mode, now working awesome
-
-  - Fixed status internet null when when not connected to wifi or mobile data
-
-  - Fixed call [number] now calls directly from default SIM not showing option
-
-  - Fixed logs not showing failed command 
-
-  - Added App version in about activity
-
-  - Added record [duration] : See SMS commands page for more details
-
-  - Added get calls [n] : See SMS commands for more details
-
-  - Added get messages[n] : See SMS commands for more details
-
-  - Added get logs [n] : See SMS commands for more details
-
+- Added Do Not Disturb mode permission
+- Fixed not ringing in silent mode
+- Added Toast for Restart app for changing theme
+- Added fawadwakeel0550@gmail.com to feedback receive list
+- Improved Bug Feedback: Now more details about the device 
+- Added get contacts
+- Added get contact [name]
+- Added get apps
 </releaseNotes>
   </update>
 </AppUpdater>
