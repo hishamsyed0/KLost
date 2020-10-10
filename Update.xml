@@ -1,17 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.1</latestVersion>
-    <latestVersionCode>13</latestVersionCode>
-    <url>https://github.com/hishamsyed0/KLost/releases/download/v2.1/KLost.v2.1.apk</url>
+    <latestVersion>2.2</latestVersion>
+    <latestVersionCode>14</latestVersionCode>
+    <url>https://github.com/hishamsyed0/KLost/releases/download/v2.2/KLost.v2.2.apk</url>
 <releaseNotes>
-- Added Do Not Disturb mode permission
-- Fixed not ringing in silent mode
-- Added Toast for Restart app for changing theme
-- Added fawadwakeel0550@gmail.com to feedback receive list
-- Improved Bug Feedback: Now more details about the device 
-- Added get contacts
-- Added get contact [name]
-- Added get apps
+- Now update will download with Download Manager
+- Added Troubleshoot Page in settings
 </releaseNotes>
   </update>
 </AppUpdater>
