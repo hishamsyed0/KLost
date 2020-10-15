@@ -1,11 +1,10 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.2</latestVersion>
-    <latestVersionCode>14</latestVersionCode>
-    <url>https://github.com/hishamsyed0/KLost/releases/download/v2.2/KLost.v2.2.apk</url>
+    <latestVersion>2.3</latestVersion>
+    <latestVersionCode>15</latestVersionCode>
+    <url>https://github.com/hishamsyed0/KLost/releases/download/v2.3/KLost.v2.3.apk</url>
 <releaseNotes>
-- Now update will download with Download Manager
-- Added Troubleshoot Page in settings
+- Bug fixes and improvements
 </releaseNotes>
   </update>
 </AppUpdater>
