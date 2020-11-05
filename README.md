@@ -41,5 +41,4 @@ Current Android Version support: Android 6-10
 
 WARNING:
 --------
-App may contain bugs that may harm your device.
-
+App may contain bugs that may harm your device and may not work on some devices.
