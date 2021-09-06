@@ -1,4 +1,6 @@
-<img src="screenshots/Screenshot_20210906-090626_KLost.jpg" width="100">
+<p>
+  <img src="screenshots/Screenshot_20210906-090626_KLost.jpg" width="100">
+</p>
 KLOST
 -----
 This app helps you find your lost Android device with SMS Commands.
